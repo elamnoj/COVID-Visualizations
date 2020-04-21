@@ -4,7 +4,7 @@ COVID 19 has spread rapidly throughout the United States.
 As of this project (4/15/20) around 4 million tests had been conducted with 600,000 confirmed cases.
 
 This kernel explores mapping time-series data from John Hopkins into a geosptial framework to visualize the progression of the disease.
-The data ranges from March 16, 2020 - April 15,2020 and is renders every date into the range into an individual map.
+The data ranges from March 16, 2020 - April 15,2020 and renders every date in the range into an individual map.
 The maps were then consolidated and made into a gif also listed in the repository. 
 This example can be embedded into websites or used in presentations. 
 
